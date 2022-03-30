@@ -11,7 +11,7 @@ const App = () => {
 
 
   const countDown = () => {
-    const endDate = new Date("December 31, 2021 00:00:00").getTime()
+    const endDate = new Date("December 31, 2022 00:00:00").getTime()
     const today = new Date().getTime()
 
     const timeDiff = endDate - today
