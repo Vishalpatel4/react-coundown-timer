@@ -48,7 +48,7 @@ const App = () => {
         <h1 className='container'>Loading...</h1>
       ) : (
         <section className='container'>
-          <h1> Countdown Timer for New Year</h1>
+          <h1> Countdown Timer for New Year 2023</h1>
 
           <div className='countdown'>
             <article>
